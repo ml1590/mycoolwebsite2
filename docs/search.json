@@ -1,5 +1,33 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Move to Chapel Hill, NC\nFind Career in Sales\nGet my MBA\n\n\n\n\nThe University of New Hampshire 2023-2024\nThe University of Tennessee 2020-2023\n\n\n\nPharma TE+V Account Manager at ALKU\nAgroecology Lab Technician UNH Agroecology Lab\nSustainability Assistant UTK Grow Lab\nThanks for checking out my web site!"
+  },
+  {
+    "objectID": "index.html#goals",
+    "href": "index.html#goals",
+    "title": "About Me",
+    "section": "",
+    "text": "Move to Chapel Hill, NC\nFind Career in Sales\nGet my MBA"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "About Me",
+    "section": "",
+    "text": "The University of New Hampshire 2023-2024\nThe University of Tennessee 2020-2023"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "About Me",
+    "section": "",
+    "text": "Pharma TE+V Account Manager at ALKU\nAgroecology Lab Technician UNH Agroecology Lab\nSustainability Assistant UTK Grow Lab"
+  },
+  {
     "objectID": "projects.html#project-2",
     "href": "projects.html#project-2",
     "title": "Projects",
@@ -12,12 +40,5 @@
     "title": "Projects",
     "section": "Project 3",
     "text": "Project 3"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About Me",
-    "section": "",
-    "text": "Thanks for checking out my web site!"
   }
 ]
